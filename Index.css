@@ -1,0 +1,66 @@
+
+.navbar-collapse{
+    flex-grow: 0 !important;
+
+}
+.get{
+    border: 2px solid whitesmoke;
+}
+.plus{
+        border-radius: 50%;
+        background-color: salmon;
+        padding: 15px;
+
+}
+.sect1{
+    margin-left: 35%;
+    margin-top: 1%;
+    width: 450px;
+    height: 350px;
+    border: 1px solid none;
+    text-align: center;
+    font-size: 20px;
+
+}
+.sect1>h1{
+    font-size: 50px;
+}
+.btt{
+    background-color: salmon;
+    color: white;
+    border: none;
+    width: 150px;
+    height: 50px;
+
+
+}
+.sect2{
+    display: flex;
+    margin-top: 30px;
+}
+.sec2{
+    padding-top: 5%;
+    width: 350px;
+    margin: 35px;
+}
+.sec2>h1{
+    font-weight: 700;
+}
+.nd{
+    margin-left: 35%;
+    margin-bottom: 4%;
+}
+.sect3{
+    display: flex;
+    justify-content: space-around;
+}
+.bcm{
+    margin-bottom: 40px;
+    text-align: center;
+
+}
+.bcm>h4{
+    font-size: 60px;
+    margin-bottom: 40px;
+
+}
